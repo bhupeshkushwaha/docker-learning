@@ -1,0 +1,3 @@
+[submodule "tailresume"]
+	path = tailresume
+	url = https://github.com/username/tailresume
